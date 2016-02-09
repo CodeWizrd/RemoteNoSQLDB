@@ -1,0 +1,20 @@
+<Performance>
+  <Clients>
+    <Client type="read" id="3">2324756</Client>
+    <Client type="read" id="2">2551267</Client>
+    <Client type="read" id="1">2439977</Client>
+    <Client type="read" id="4">2959881</Client>
+    <Client type="write" id="3">3921906</Client>
+    <Client type="write" id="1">3785408</Client>
+    <Client type="write" id="5">3856495</Client>
+    <Client type="write" id="2">3901991</Client>
+    <Client type="write" id="4">3987457</Client>
+  </Clients>
+  <Server>
+    <Snapshot>0.0535714285714286</Snapshot>
+    <Snapshot>0.833333333333333</Snapshot>
+    <Snapshot>0.833333333333333</Snapshot>
+    <Snapshot>2.23529411764706</Snapshot>
+    <Snapshot>0.62962962962963</Snapshot>
+  </Server>
+</Performance>

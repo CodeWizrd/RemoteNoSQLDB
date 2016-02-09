@@ -1,0 +1,36 @@
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\QueryEngine.exe.config
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\QueryEngine.exe
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\QueryEngine.pdb
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\DBElement.exe
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\DBEngine.exe
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\DBExtensions.exe
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\Display.exe
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\UtilityExtensions.exe
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\DBElement.pdb
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\DBEngine.pdb
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\DBExtensions.pdb
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\Display.pdb
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\UtilityExtensions.pdb
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\obj\Debug\QueryEngine.exe
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\obj\Debug\QueryEngine.pdb
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\DBFactory.exe
+E:\Fall2015\SMA\Proj2\Project2Helper\QueryEngine\bin\Debug\DBFactory.pdb
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\QueryEngine.exe.config
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\QueryEngine.exe
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\QueryEngine.pdb
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\DBElement.exe
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\DBEngine.exe
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\DBExtensions.exe
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\DBFactory.exe
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\Display.exe
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\UtilityExtensions.exe
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\DBElement.pdb
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\DBEngine.pdb
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\DBExtensions.pdb
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\DBFactory.pdb
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\Display.pdb
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\bin\Debug\UtilityExtensions.pdb
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\obj\Debug\QueryEngine.csprojResolveAssemblyReference.cache
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\obj\Debug\QueryEngine.exe
+E:\Project4 Submission\RemoteNoSQLDB\QueryEngine\obj\Debug\QueryEngine.pdb

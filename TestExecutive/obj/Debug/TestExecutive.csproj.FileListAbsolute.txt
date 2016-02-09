@@ -1,0 +1,6 @@
+E:\Project4 Submission\RemoteNoSQLDB\TestExecutive\bin\Debug\TestExecutive.exe.config
+E:\Project4 Submission\RemoteNoSQLDB\TestExecutive\bin\Debug\TestExecutive.exe
+E:\Project4 Submission\RemoteNoSQLDB\TestExecutive\bin\Debug\TestExecutive.pdb
+E:\Project4 Submission\RemoteNoSQLDB\TestExecutive\obj\Debug\TestExecutive.csprojResolveAssemblyReference.cache
+E:\Project4 Submission\RemoteNoSQLDB\TestExecutive\obj\Debug\TestExecutive.exe
+E:\Project4 Submission\RemoteNoSQLDB\TestExecutive\obj\Debug\TestExecutive.pdb

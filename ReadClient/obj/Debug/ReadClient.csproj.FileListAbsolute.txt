@@ -1,0 +1,42 @@
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\Client.exe.config
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\Client.exe
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\Client.pdb
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\ICommService.dll
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\MakeMessage.exe
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\Receiver.exe
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\Sender.exe
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\Utilities.exe
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\CommService.dll
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\BlockingQueue.dll
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\ICommService.pdb
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\MakeMessage.pdb
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\Receiver.pdb
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\Sender.pdb
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\Utilities.pdb
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\CommService.pdb
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\bin\Debug\BlockingQueue.pdb
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\obj\Debug\ReadClient.csprojResolveAssemblyReference.cache
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\obj\Debug\Client.exe
+E:\Fall2015\SMA\Code\Proj4\RemoteNoSQLDB\Client\obj\Debug\Client.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\Client.exe.config
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\Client.exe
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\Client.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\HiResTimer.exe
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\ICommService.dll
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\MakeMessage.exe
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\Receiver.exe
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\Sender.exe
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\Utilities.exe
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\CommService.dll
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\BlockingQueue.dll
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\HiResTimer.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\ICommService.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\MakeMessage.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\Receiver.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\Sender.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\Utilities.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\CommService.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\bin\Debug\BlockingQueue.pdb
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\obj\Debug\ReadClient.csprojResolveAssemblyReference.cache
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\obj\Debug\Client.exe
+E:\Project4 Submission\RemoteNoSQLDB\ReadClient\obj\Debug\Client.pdb

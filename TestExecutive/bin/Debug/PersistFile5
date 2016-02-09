@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!--Persisting DB to XML at 11/19/2015 10:13:08 AM-->
+<NoSqlDb>
+  <KeyType>System.Int32</KeyType>
+  <PayloadType>System.String</PayloadType>
+</NoSqlDb>

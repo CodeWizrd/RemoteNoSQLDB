@@ -1,0 +1,70 @@
+<MessageCreation>
+	<ReadMessages>
+		<Message>
+			<Query>
+				<Type>0</Type>
+				<String>1</String>
+			</Query>
+		</Message>
+		<Message>
+			<Query>
+				<Type>1</Type>
+				<String>1</String>
+			</Query>
+		</Message>
+		<Message>
+			<Query>
+				<Type>2</Type>
+				<String>1*</String>
+			</Query>
+		</Message>
+		<Message>
+			<Query>
+				<Type>3</Type>
+				<String>1</String>
+			</Query>
+		</Message>
+		<Message>
+			<Query>
+				<Type>4</Type>
+				<String>2015-10-09</String>
+			</Query>
+		</Message>
+		<Message>
+			<ShowDB/>
+		</Message>
+	</ReadMessages>
+	<WriteMessages>
+		<Message> <Add/> </Message>
+		<Message> <Add/> </Message>
+		<Message> <Add/> </Message>
+		<Message> <Add/> </Message>
+		<Message> <Add/> </Message>
+		<Message> <Add/> </Message>
+		<Message> <Edit/> </Message>
+		<Message> <Edit/> </Message>
+		<Message> <Edit/> </Message>
+		<Message> <Edit/> </Message>
+		<Message> <Remove/> </Message>
+		<Message> <Remove/> </Message>
+		<Message>
+			<ShowDB/>
+		</Message>
+		<Message>
+			<Persist>
+				<Filename>PersistFile</Filename>
+			</Persist>
+		</Message>
+		<Message>
+			<ShowDB/>
+		</Message>
+		<Message>
+			<Restore>
+				<Filename>PersistFile</Filename>
+			</Restore>
+		</Message>
+		<Message>
+			<ShowDB/>
+		</Message>
+	</WriteMessages>
+</MessageCreation>

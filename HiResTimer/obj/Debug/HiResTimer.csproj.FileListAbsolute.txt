@@ -1,0 +1,6 @@
+E:\Project4 Submission\RemoteNoSQLDB\HiResTimer\bin\Debug\HiResTimer.exe.config
+E:\Project4 Submission\RemoteNoSQLDB\HiResTimer\bin\Debug\HiResTimer.exe
+E:\Project4 Submission\RemoteNoSQLDB\HiResTimer\bin\Debug\HiResTimer.pdb
+E:\Project4 Submission\RemoteNoSQLDB\HiResTimer\obj\Debug\HiResTimer.csprojResolveAssemblyReference.cache
+E:\Project4 Submission\RemoteNoSQLDB\HiResTimer\obj\Debug\HiResTimer.exe
+E:\Project4 Submission\RemoteNoSQLDB\HiResTimer\obj\Debug\HiResTimer.pdb
